@@ -1,0 +1,248 @@
+{
+  "user1": {
+    "name": "Μαρία",
+    "email": "joanna17ars@gmail.com",
+    "accounts": [
+      {
+        "type": "Ρεύμα",
+        "amount": 45.5,
+        "expireDate": "2026-09-18",
+        "status": "Δεν έχει σταλεί"
+      },
+      {
+        "type": "Ίντερνετ",
+        "amount": 25.0,
+        "expireDate": "2026-09-19",
+        "status": "Δεν έχει σταλεί"
+      }
+    ]
+  },
+  "user2": {
+    "name": "Μαργαρίτα",
+    "email": "joanna17ars@gmail.com",
+    "accounts": [
+      {
+        "type": "Ρεύμα",
+        "amount": 59.5,
+        "expireDate": "2026-09-20",
+        "status": "Δεν έχει σταλεί"
+      },
+      {
+        "type": "Ίντερνετ",
+        "amount": 25.0,
+        "expireDate": "2026-12-02",
+        "status": "Δεν έχει σταλεί"
+      }
+    ]
+  },
+  "user3": {
+    "name": "Μπάμπης",
+    "email": "nsioanna@csd.auth.gr",
+    "accounts": [
+      {
+        "type": "Ενοίκιο",
+        "amount": 400.0,
+        "expireDate": "2026-09-19",
+        "status": "Δεν έχει σταλεί"
+      }
+    ]
+  },
+  "user4": {
+    "name": "Γιάννης",
+    "email": "joanna17ars@gmail.com",
+    "accounts": [
+      {
+        "type": "Κινητό",
+        "amount": 15.0,
+        "expireDate": "2026-11-05",
+        "status": "Δεν έχει σταλεί"
+      },
+      {
+        "type": "Ρεύμα",
+        "amount": 52.3,
+        "expireDate": "2026-09-20",
+        "status": "Δεν έχει σταλεί"
+      }
+    ]
+  },
+  "user5": {
+    "name": "Ελένη",
+    "email": "nsioanna@csd.auth.gr",
+    "accounts": [
+      {
+        "type": "Ενοίκιο",
+        "amount": 350.0,
+        "expireDate": "2026-10-01",
+        "status": "Δεν έχει σταλεί"
+      }
+    ]
+  },
+  "user6": {
+    "name": "Γιώργος",
+    "email": "joanna17ars@gmail.com",
+    "accounts": [
+      {
+        "type": "Ίντερνετ",
+        "amount": 28.0,
+        "expireDate": "2026-09-19",
+        "status": "Δεν έχει σταλεί"
+      },
+      {
+        "type": "Νερό",
+        "amount": 12.5,
+        "expireDate": "2026-09-30",
+        "status": "Δεν έχει σταλεί"
+      },
+      {
+        "type": "Κινητό",
+        "amount": 20.0,
+        "expireDate": "2026-12-01",
+        "status": "Δεν έχει σταλεί"
+      }
+    ]
+  },
+  "user7": {
+    "name": "Κωνσταντίνος",
+    "email": "nsioanna@csd.auth.gr",
+    "accounts": [
+      {
+        "type": "Ρεύμα",
+        "amount": 60.0,
+        "expireDate": "2026-09-19",
+        "status": "Δεν έχει σταλεί"
+      }
+    ]
+  },
+  "user8": {
+    "name": "Χριστίνα",
+    "email": "joanna17ars@gmail.com",
+    "accounts": [
+      {
+        "type": "Τηλέφωνο",
+        "amount": 30.0,
+        "expireDate": "2026-09-19",
+        "status": "Δεν έχει σταλεί"
+      },
+      {
+        "type": "Ενοίκιο",
+        "amount": 500.0,
+        "expireDate": "2026-09-21",
+        "status": "Δεν έχει σταλεί"
+      }
+    ]
+  },
+  "user9": {
+    "name": "Στάθης",
+    "email": "nsioanna@csd.auth.gr",
+    "accounts": [
+      {
+        "type": "Νερό",
+        "amount": 22.0,
+        "expireDate": "2026-11-20",
+        "status": "Δεν έχει σταλεί"
+      }
+    ]
+  },
+  "user10": {
+    "name": "Έλενα",
+    "email": "joanna17ars@gmail.com",
+    "accounts": [
+      {
+        "type": "Ίντερνετ",
+        "amount": 27.5,
+        "expireDate": "2026-09-19",
+        "status": "Δεν έχει σταλεί"
+      },
+      {
+        "type": "Ρεύμα",
+        "amount": 48.0,
+        "expireDate": "2026-09-25",
+        "status": "Δεν έχει σταλεί"
+      }
+    ]
+  },
+  "user11": {
+    "name": "Χρήστος",
+    "email": "nsioanna@csd.auth.gr",
+    "accounts": [
+      {
+        "type": "Κινητό",
+        "amount": 18.0,
+        "expireDate": "2026-09-19",
+        "status": "Δεν έχει σταλεί"
+      },
+      {
+        "type": "Ενοίκιο",
+        "amount": 420.0,
+        "expireDate": "2026-10-10",
+        "status": "Δεν έχει σταλεί"
+      },
+      {
+        "type": "Τηλέφωνο",
+        "amount": 25.0,
+        "expireDate": "2026-09-20",
+        "status": "Δεν έχει σταλεί"
+      }
+    ]
+  },
+  "user12": {
+    "name": "Πέτρος",
+    "email": "joanna17ars@gmail.com",
+    "accounts": [
+      {
+        "type": "Ρεύμα",
+        "amount": 55.0,
+        "expireDate": "2026-12-25",
+        "status": "Δεν έχει σταλεί"
+      }
+    ]
+  },
+  "user13": {
+    "name": "Κατερίνα",
+    "email": "nsioanna@csd.auth.gr",
+    "accounts": [
+      {
+        "type": "Νερό",
+        "amount": 14.0,
+        "expireDate": "2026-09-19",
+        "status": "Δεν έχει σταλεί"
+      },
+      {
+        "type": "Ίντερνετ",
+        "amount": 26.0,
+        "expireDate": "2026-09-22",
+        "status": "Δεν έχει σταλεί"
+      }
+    ]
+  },
+  "user14": {
+    "name": "Αναστασία",
+    "email": "joanna17ars@gmail.com",
+    "accounts": [
+      {
+        "type": "Ενοίκιο",
+        "amount": 380.0,
+        "expireDate": "2026-12-05",
+        "status": "Δεν έχει σταλεί"
+      }
+    ]
+  },
+  "user15": {
+    "name": "Στέλλα",
+    "email": "nsioanna@csd.auth.gr",
+    "accounts": [
+      {
+        "type": "Τηλέφωνο",
+        "amount": 21.0,
+        "expireDate": "2026-09-21",
+        "status": "Δεν έχει σταλεί"
+      },
+      {
+        "type": "Ρεύμα",
+        "amount": 47.0,
+        "expireDate": "2026-09-19",
+        "status": "Δεν έχει σταλεί"
+      }
+    ]
+  }
+}
